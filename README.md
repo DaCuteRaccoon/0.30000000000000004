@@ -1,5 +1,5 @@
 # [0.30000000000000004.com](https://dacuteraccoon.github.io/0.30000000000000004)
-With **no Google Analytics!**
+With **no Google Analytics** and **better CSS!**
 ## Floating Point Math
 
 Your language isn't broken, it's doing floating point math. Computers can only
